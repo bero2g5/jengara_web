@@ -1,0 +1,35 @@
+# Jengara
+
+Jengara is an independent AI strategy and transformation advisory based in Amsterdam, Netherlands. Jengara connects strategic advice with hands-on engineering through two practices, Jengara Advisory and Jengara Labs. It helps enterprise leaders, boards and investors turn AI investment into measurable business performance.
+
+Contact: hello@jengara.ai
+
+## Advisory services
+
+- AI Strategy and Executive Advisory: https://jengara.ai/advisory/ai-strategy-executive-advisory/
+- AI Transformation: https://jengara.ai/advisory/ai-transformation/
+- AI Management: https://jengara.ai/advisory/ai-management/
+- Agentic AI Advisory: https://jengara.ai/advisory/agentic-ai-advisory/
+- AI Tokenomics, GPU Economics and FinOps: https://jengara.ai/advisory/ai-tokenomics-finops/
+- AI Value and Production Assurance: https://jengara.ai/advisory/ai-value-production-assurance/
+- Cybersecurity Due Diligence: https://jengara.ai/advisory/cybersecurity-due-diligence/
+- Digital Critical Infrastructure: https://jengara.ai/advisory/digital-critical-infrastructure/
+- Private Equity Technology Due Diligence: https://jengara.ai/advisory/private-equity-technology-due-diligence/
+
+## Research and insights
+
+- From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
+- Seven AI diligence questions every investment committee should ask: https://jengara.ai/insights/ai-due-diligence-investment-committee/
+- AI infrastructure is now critical infrastructure: https://jengara.ai/insights/critical-infrastructure-ai/
+
+## Working resources
+
+- AI Value and Readiness Workbook: https://jengara.ai/resources/ai-value-readiness-workbook/
+- AI Investment Diligence Checklist: https://jengara.ai/resources/ai-investment-diligence-checklist/
+- AI Unit Economics Worksheet: https://jengara.ai/resources/ai-unit-economics-worksheet/
+
+## Practices
+
+- Jengara Advisory: https://jengara.ai/advisory/
+- Jengara Labs: https://jengara.ai/labs/
+- About: https://jengara.ai/about/
