@@ -1,0 +1,14 @@
+# Jengara: single canonical host (https apex only)
+# Cloudflare sits in front of this site, so trust its scheme headers.
+# These rules cannot loop: they only fire when a proxy header positively says http,
+# or when the host is www.
+RewriteEngine On
+
+# www -> apex (host based, always safe)
+RewriteCond %{HTTP_HOST} ^www\.jengara\.ai$ [NC]
+RewriteRule ^ https://jengara.ai%{REQUEST_URI} [L,R=301,NE]
+
+# http -> https (only when the front proxy confirms the original scheme was http)
+RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"' [OR]
+RewriteCond %{HTTP:X-Forwarded-Proto} ^http$ [NC]
+RewriteRule ^ https://jengara.ai%{REQUEST_URI} [L,R=301,NE]
