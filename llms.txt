@@ -3,6 +3,15 @@
 Jengara is an independent AI strategy and transformation advisory based in Amsterdam, Netherlands. Jengara connects strategic advice with hands-on engineering through two practices, Jengara Advisory and Jengara Labs. It helps enterprise leaders, boards and investors turn AI investment into measurable business performance.
 
 Contact: hello@jengara.ai
+Location: Amsterdam, Netherlands
+
+## Key facts
+
+- Independent advisory. Recommendations are never tied to software, cloud or equipment resale.
+- Two practices: Jengara Advisory (executive counsel, diligence, transformation leadership) and Jengara Labs (applied research and engineering).
+- Senior led. Expertise grounded in more than 15 years across global technology platforms and infrastructure.
+- Serves enterprise leaders, boards and investors.
+- Publishes evidence first research on AI economics, infrastructure and diligence at https://jengara.ai/insights/.
 
 ## Advisory services
 
@@ -16,8 +25,13 @@ Contact: hello@jengara.ai
 - Digital Critical Infrastructure: https://jengara.ai/advisory/digital-critical-infrastructure/
 - Private Equity Technology Due Diligence: https://jengara.ai/advisory/private-equity-technology-due-diligence/
 
+## Jengara Labs
+
+Applied research and engineering on AI infrastructure economics, agent reliability and enterprise AI engineering. https://jengara.ai/labs/
+
 ## Research and insights
 
+- The power ceiling: energy is now the binding constraint on AI scale: https://jengara.ai/insights/ai-power-ceiling/
 - From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
 - Seven AI diligence questions every investment committee should ask: https://jengara.ai/insights/ai-due-diligence-investment-committee/
 - AI infrastructure is now critical infrastructure: https://jengara.ai/insights/critical-infrastructure-ai/
@@ -27,6 +41,14 @@ Contact: hello@jengara.ai
 - AI Value and Readiness Workbook: https://jengara.ai/resources/ai-value-readiness-workbook/
 - AI Investment Diligence Checklist: https://jengara.ai/resources/ai-investment-diligence-checklist/
 - AI Unit Economics Worksheet: https://jengara.ai/resources/ai-unit-economics-worksheet/
+
+## Frequently asked questions
+
+- What does Jengara do? Jengara helps enterprise leaders, boards and investors turn AI investment into measurable business performance through independent strategy, transformation and engineering.
+- Where is Jengara based? Amsterdam, Netherlands.
+- How is Jengara structured? Two practices: Jengara Advisory for executive counsel and diligence, and Jengara Labs for applied research and engineering.
+- Is Jengara independent? Yes. Recommendations are not tied to software, cloud or equipment resale.
+- How can I contact Jengara? Email hello@jengara.ai or use https://jengara.ai/contact/.
 
 ## Practices
 
