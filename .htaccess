@@ -1,7 +1,12 @@
 # Jengara: single canonical host (https apex only)
+# NOTE 2026-10-06: the Cloudways nginx layer currently serves static files
+# directly and does not process this file. Canonical enforcement is handled
+# by a JS redirect in each page plus correct canonical tags. These rules are
+# kept as a fallback in case Apache/.htaccess processing is enabled later.
 # Cloudflare sits in front of this site, so trust its scheme headers.
 # These rules cannot loop: they only fire when a proxy header positively says http,
 # or when the host is www.
+<IfModule mod_rewrite.c>
 RewriteEngine On
 
 # www -> apex (host based, always safe)
@@ -12,3 +17,4 @@ RewriteRule ^ https://jengara.ai%{REQUEST_URI} [L,R=301,NE]
 RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"' [OR]
 RewriteCond %{HTTP:X-Forwarded-Proto} ^http$ [NC]
 RewriteRule ^ https://jengara.ai%{REQUEST_URI} [L,R=301,NE]
+</IfModule>
