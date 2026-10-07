@@ -31,6 +31,7 @@ Applied research and engineering on AI infrastructure economics, agent reliabili
 
 ## Research and insights
 
+- The agent gap: why enterprise AI agents stall before production: https://jengara.ai/insights/the-agent-gap/
 - The power ceiling: energy is now the binding constraint on AI scale: https://jengara.ai/insights/ai-power-ceiling/
 - From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
 - Seven AI diligence questions every investment committee should ask: https://jengara.ai/insights/ai-due-diligence-investment-committee/
