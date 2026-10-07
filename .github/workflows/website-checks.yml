@@ -1,0 +1,25 @@
+name: Website checks
+on:
+  push:
+  pull_request:
+jobs:
+  check-websites:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install development prerequisites
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y php-cli
+          python -m pip install -r requirements-dev.txt
+          python -m playwright install --with-deps chromium
+      - name: Check source syntax
+        run: |
+          php -l contact-submit.php
+          node --check site.js
+          node --check ribyos-site/assets/site.js
+      - name: Test both websites and local contact capture
+        run: python -m unittest discover -s tests -v

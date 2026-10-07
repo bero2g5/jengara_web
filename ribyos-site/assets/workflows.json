@@ -1,0 +1,138 @@
+[
+  {
+    "id": "research",
+    "category": "business",
+    "number": "01",
+    "icon": "\u2315",
+    "label": "KNOWLEDGE & RESEARCH",
+    "title": "From questions to evidence.",
+    "description": "A researcher, source reviewer and brief writer coordinate a referenced research brief.",
+    "problem": "Teams need a clear research brief that distinguishes supported findings from open questions.",
+    "inputs": [
+      "An approved research document collection",
+      "A research question and scope"
+    ],
+    "roles": [
+      "Researcher: finds relevant passages",
+      "Source reviewer: checks support and gaps",
+      "Brief writer: organises a referenced draft"
+    ],
+    "output": "A draft brief with source references, evidence gaps and review notes.",
+    "approval": "A human reviewer verifies sources and approves the brief before it is shared.",
+    "permissions": "Read access to the approved collection only. No publishing or external communications.",
+    "success": "Every material finding can be traced to a supplied source, and unsupported claims are flagged."
+  },
+  {
+    "id": "procurement",
+    "category": "business",
+    "number": "02",
+    "icon": "\u25a4",
+    "label": "PROCUREMENT & FINANCE",
+    "title": "A clearer view of suppliers.",
+    "description": "Bring contracts, spend and policy into one coordinated supplier review.",
+    "problem": "Supplier decisions depend on evidence scattered across contracts, spend records and purchasing policy.",
+    "inputs": [
+      "Approved supplier contracts and spend records",
+      "Internal procurement policy and review criteria"
+    ],
+    "roles": [
+      "Supplier reviewer: gathers supplier evidence",
+      "Contract analyst: identifies terms and obligations",
+      "Spend analyst: summarises approved spend records"
+    ],
+    "output": "A draft supplier review with evidence references, policy exceptions and unresolved questions.",
+    "approval": "Procurement or finance reviews the findings. The workflow cannot select suppliers or make purchases.",
+    "permissions": "Read-only access to specifically approved contracts, spend data and policy documents.",
+    "success": "Each finding names its evidence, and contract or policy exceptions are surfaced for human review."
+  },
+  {
+    "id": "people",
+    "category": "business",
+    "number": "03",
+    "icon": "\u25cc",
+    "label": "PEOPLE & CUSTOMER TEAMS",
+    "title": "Answers with the right context.",
+    "description": "Support policy questions, onboarding and draft responses with approved knowledge.",
+    "problem": "People and customer teams need consistent answers that respect access boundaries and current policy.",
+    "inputs": [
+      "An approved policy or service knowledge collection",
+      "A user question and access scope"
+    ],
+    "roles": [
+      "Policy assistant: retrieves relevant guidance",
+      "Onboarding guide: structures the next steps",
+      "Response drafter: prepares a reviewable response"
+    ],
+    "output": "A cited answer or response draft grounded in approved knowledge.",
+    "approval": "A responsible team member checks sensitive or consequential responses before sending.",
+    "permissions": "Permission-aware reading of approved knowledge. No access to unrelated personnel or customer records.",
+    "success": "Answers cite applicable sources, respect the user\u2019s permissions, and flag missing or conflicting guidance."
+  },
+  {
+    "id": "finance",
+    "category": "industry",
+    "number": "04",
+    "icon": "\u25c7",
+    "label": "FINANCIAL SERVICES",
+    "title": "Diligence, organised.",
+    "description": "Coordinate evidence collection and surface review findings for a human decision.",
+    "problem": "Review teams need to organise a large diligence collection without losing the distinction between evidence and interpretation.",
+    "inputs": [
+      "An approved diligence document collection",
+      "A review checklist and agreed scope"
+    ],
+    "roles": [
+      "Diligence coordinator: organises requests and evidence",
+      "Evidence reviewer: maps findings to the checklist"
+    ],
+    "output": "An evidence index, referenced review findings and an open-question register.",
+    "approval": "A qualified reviewer decides what the evidence means. Investment and compliance decisions remain human-owned.",
+    "permissions": "Read-only access within a defined diligence workspace; no trading or transaction execution.",
+    "success": "Each checklist item is linked to evidence or explicitly marked as unresolved."
+  },
+  {
+    "id": "industrial",
+    "category": "industry",
+    "number": "05",
+    "icon": "\u2301",
+    "label": "INDUSTRIAL & ENERGY",
+    "title": "Asset knowledge, put to work.",
+    "description": "Turn manuals and maintenance knowledge into referenced planning support.",
+    "problem": "Maintenance planners need relevant asset information and clear documentation gaps before making a plan.",
+    "inputs": [
+      "Approved manuals and maintenance procedures",
+      "Asset context and a planning question"
+    ],
+    "roles": [
+      "Asset knowledge assistant: retrieves documentation",
+      "Maintenance planner: drafts planning considerations"
+    ],
+    "output": "A referenced planning draft with assumptions, dependencies and missing documentation.",
+    "approval": "An authorised engineer reviews the draft. Equipment operation and maintenance authorisation stay with qualified people.",
+    "permissions": "Read-only approved documentation. No access to operational control systems.",
+    "success": "Planning considerations cite applicable documentation, and missing safety or operating information is flagged."
+  },
+  {
+    "id": "technology",
+    "category": "industry",
+    "number": "06",
+    "icon": "\u2318",
+    "label": "TECHNOLOGY & TELECOM",
+    "title": "Understand the incident.",
+    "description": "Investigate incidents, review changes and assess capacity through a focused workflow pack.",
+    "problem": "Technology teams need an evidence-based picture of an incident, change or capacity constraint.",
+    "inputs": [
+      "Approved incident reports, change records and runbooks",
+      "An investigation scope and relevant capacity data"
+    ],
+    "roles": [
+      "Incident investigator: assembles a timeline",
+      "Change reviewer: compares changes to policy",
+      "Capacity analyst: examines supplied capacity evidence"
+    ],
+    "output": "A referenced analysis draft with observations, hypotheses and questions for operators.",
+    "approval": "An operator reviews the evidence. The workflow cannot change systems or apply remediations.",
+    "permissions": "Read-only approved records; operational actions require a separately authorised scope.",
+    "success": "Observations are separated from hypotheses, and recommendations cite the evidence that supports them."
+  }
+]
