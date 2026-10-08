@@ -56,3 +56,9 @@ Applied research and engineering on AI infrastructure economics, agent reliabili
 - Jengara Advisory: https://jengara.ai/advisory/
 - Jengara Labs: https://jengara.ai/labs/
 - About: https://jengara.ai/about/
+
+## Ribyos by Jengara Labs
+
+Ribyos is an industry-neutral enterprise agent platform in development at Jengara Labs. Studio supports building and testing agents; Enterprise provides workspace governance; Marketplace is planned for reusable agents, connectors and workflow packs. Reliability and SRE are optional industry extensions. Open refers to interoperability and model choice, not an open-source licence.
+
+- Product overview: https://jengara.ai/ribyos/
