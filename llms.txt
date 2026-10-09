@@ -1,6 +1,6 @@
 # Jengara
 
-Jengara is an independent AI strategy and transformation advisory based in Amsterdam, Netherlands. Jengara connects strategic advice with hands-on engineering through two practices, Jengara Advisory and Jengara Labs. It helps enterprise leaders, boards and investors turn AI investment into measurable business performance.
+Jengara is an enterprise AI software business based in Amsterdam, Netherlands. Jengara Labs leads product development, with Ribyos as its flagship agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
 
 Contact: hello@jengara.ai
 Location: Amsterdam, Netherlands
@@ -8,10 +8,16 @@ Location: Amsterdam, Netherlands
 ## Key facts
 
 - Independent advisory. Recommendations are never tied to software, cloud or equipment resale.
-- Two practices: Jengara Advisory (executive counsel, diligence, transformation leadership) and Jengara Labs (applied research and engineering).
+- Two practices: Jengara Labs (Ribyos and product development) and Jengara Advisory (independent executive counsel, diligence and transformation leadership).
 - Senior led. Expertise grounded in more than 15 years across global technology platforms and infrastructure.
 - Serves enterprise leaders, boards and investors.
 - Publishes evidence first research on AI economics, infrastructure and diligence at https://jengara.ai/insights/.
+
+## Ribyos by Jengara Labs
+
+Ribyos is an industry-neutral enterprise agent platform in development at Jengara Labs. Studio supports building and testing agents; Enterprise provides workspace governance; Marketplace is planned for reusable agents, connectors and workflow packs. Reliability and SRE are optional industry extensions. Open refers to interoperability and model choice, not an open-source licence.
+
+- Product overview: https://jengara.ai/ribyos/
 
 ## Advisory services
 
@@ -27,7 +33,7 @@ Location: Amsterdam, Netherlands
 
 ## Jengara Labs
 
-Applied research and engineering on AI infrastructure economics, agent reliability and enterprise AI engineering. https://jengara.ai/labs/
+Product development behind Ribyos, supported by applied research on enterprise knowledge, agent workflows and governance. https://jengara.ai/labs/
 
 ## Research and insights
 
@@ -45,9 +51,9 @@ Applied research and engineering on AI infrastructure economics, agent reliabili
 
 ## Frequently asked questions
 
-- What does Jengara do? Jengara helps enterprise leaders, boards and investors turn AI investment into measurable business performance through independent strategy, transformation and engineering.
+- What does Jengara do? Jengara develops enterprise AI software through Labs, including Ribyos, and offers independent expertise through Advisory.
 - Where is Jengara based? Amsterdam, Netherlands.
-- How is Jengara structured? Two practices: Jengara Advisory for executive counsel and diligence, and Jengara Labs for applied research and engineering.
+- How is Jengara structured? Labs leads product development, with Ribyos as the flagship platform. Advisory supports independent strategy, transformation and diligence engagements.
 - Is Jengara independent? Yes. Recommendations are not tied to software, cloud or equipment resale.
 - How can I contact Jengara? Email hello@jengara.ai or use https://jengara.ai/contact/.
 
@@ -56,9 +62,3 @@ Applied research and engineering on AI infrastructure economics, agent reliabili
 - Jengara Advisory: https://jengara.ai/advisory/
 - Jengara Labs: https://jengara.ai/labs/
 - About: https://jengara.ai/about/
-
-## Ribyos by Jengara Labs
-
-Ribyos is an industry-neutral enterprise agent platform in development at Jengara Labs. Studio supports building and testing agents; Enterprise provides workspace governance; Marketplace is planned for reusable agents, connectors and workflow packs. Reliability and SRE are optional industry extensions. Open refers to interoperability and model choice, not an open-source licence.
-
-- Product overview: https://jengara.ai/ribyos/
