@@ -1,6 +1,6 @@
 # Jengara
 
-Jengara is an AI software company based in Amsterdam, Netherlands. Jengara Labs is its AI product development arm, with Ribyos as its flagship enterprise agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
+Jengara is an AI software company based in Amsterdam, Netherlands. Jengara Labs is its AI product development arm, building a portfolio of products for distinct customer needs. Ribyos is its first featured product, an enterprise agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
 
 Contact: hello@jengara.ai
 Location: Amsterdam, Netherlands
@@ -33,7 +33,7 @@ Ribyos is an industry-neutral enterprise agent platform in development at Jengar
 
 ## Jengara Labs
 
-Product development behind Ribyos, supported by applied research on enterprise knowledge, agent workflows and governance. https://jengara.ai/labs/
+The home of Jengara’s AI product portfolio, supported by applied research. Each product has its own audience and roadmap; Labs is not limited to enterprise software. Ribyos is the first featured product. https://jengara.ai/labs/
 
 ## Research and insights
 
@@ -51,7 +51,7 @@ Product development behind Ribyos, supported by applied research on enterprise k
 
 ## Frequently asked questions
 
-- What does Jengara do? Jengara develops enterprise AI software through Labs, including Ribyos, and offers independent expertise through Advisory.
+- What does Jengara do? Jengara develops AI products through Labs, including the enterprise platform Ribyos, and offers independent expertise through Advisory.
 - Where is Jengara based? Amsterdam, Netherlands.
 - How is Jengara structured? Labs leads product development, with Ribyos as the flagship platform. Advisory supports independent strategy, transformation and diligence engagements.
 - Is Jengara independent? Yes. Recommendations are not tied to software, cloud or equipment resale.
