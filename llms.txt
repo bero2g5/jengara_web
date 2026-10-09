@@ -1,6 +1,6 @@
 # Jengara
 
-Jengara is an enterprise AI software business based in Amsterdam, Netherlands. Jengara Labs leads product development, with Ribyos as its flagship agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
+Jengara is an AI software company based in Amsterdam, Netherlands. Jengara Labs is its AI product development arm, with Ribyos as its flagship enterprise agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
 
 Contact: hello@jengara.ai
 Location: Amsterdam, Netherlands
