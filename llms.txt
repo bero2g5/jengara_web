@@ -38,6 +38,7 @@ The home of Jengara’s AI product portfolio, supported by applied research. Eac
 
 ## Research and insights
 
+- The chip war is now your supply chain problem: export controls are redrawing the map of global AI compute: https://jengara.ai/insights/ai-compute-export-controls/
 - The agent gap: why enterprise AI agents stall before production: https://jengara.ai/insights/the-agent-gap/
 - The power ceiling: energy is now the binding constraint on AI scale: https://jengara.ai/insights/ai-power-ceiling/
 - From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
